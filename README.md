@@ -15,9 +15,9 @@ To add this repository to HACS, follow these steps:
 1. **Automatic Method (Recommended):**
    Simply click the link below, and it will automatically add this repository to HACS:
 
-   [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=vuminhtuanhvtc&repository=https%3A%2F%2Fgithub.com%2Fvuminhtuanhvtc%2Fhass_custom_components)
+   [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=vuminhtuanhvtc&repository=hass_custom_components)
 
-2. **Manual Method:**
+3. **Manual Method:**
    If the automatic method doesn't work, you can add the repository manually in HACS:
 
    - Open HACS in Home Assistant.
