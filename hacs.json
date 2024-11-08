@@ -1,0 +1,7 @@
+{
+  "name": "Ezviz Custom Integration",
+  "content_in_root": false,
+  "domain": "ezviz202384",
+  "homeassistant": "2023.8.4",
+  "render_readme": true
+}
