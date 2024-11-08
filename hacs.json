@@ -1,7 +1,10 @@
 {
-  "name": "Ezviz Custom Integration",
+  "name": "Custom Components for Home Assistant",
   "content_in_root": false,
-  "domain": "ezviz202384",
-  "homeassistant": "2023.8.4",
-  "render_readme": true
+  "homepage": "https://github.com/vuminhtuanhvtc/hass_custom_components",
+  "category": "Integration",
+  "documentation": "https://github.com/vuminhtuanhvtc/hass_custom_components/blob/main/README.md",
+  "issues": "https://github.com/vuminhtuanhvtc/hass_custom_components/issues",
+  "dependencies": [],
+  "codeowners": ["@vuminhtuanhvtc"]
 }
